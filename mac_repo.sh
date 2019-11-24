@@ -5,3 +5,8 @@ c=1
 echo $((a+b+c))
 #this new file
 echo $((a+1+b+3+4)) 
+#add sub line 2019.11.18 sonokawa
+echo $((a-b))
+#add multi line 2019.11.28 sonokawa
+echo $((a*b*10))
+#end edit
